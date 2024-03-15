@@ -1,8 +1,10 @@
 f = open("game.csv", encoding="utf-8").readlines()
 f.pop(0)
 #открываем файл и удаляем первый (ненужный) эллемент
+
 a = open("game_new.txt", "w", encoding="utf-8")
 #создаём файл, в который будет записываться ответ
+
 for i in f:
     ent = i.split(",")
     if ent[1] == "Avery":
