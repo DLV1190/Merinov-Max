@@ -1,0 +1,1170 @@
+Shadow of the Tomb Raider:
+  Total errors: 8
+  Evelyn:
+   - QABУ:305
+  Ellie:
+   - CPНB:478
+  Layla:
+   - ЮPНP:674
+  Eleanor:
+   - БBЭМ:76
+  Alexander:
+   - ИООЭ:615
+  Emily:
+   - WЮHИ:805
+  Matthew:
+   - ШURA:184
+  Samuel:
+   - UЧОA:111
+Sims 4:
+  Total errors: 5
+  Grace:
+   - EЖSX:661
+  Jack:
+   - IFIQ:432
+  Lucas:
+   - MVRЦ:179
+  Harper:
+   - ЬЭOE:679
+  Sophie:
+   - ИNDX:729
+Apex Legends:
+  Total errors: 5
+  James:
+   - FLVJ:734
+  Jayden:
+   - ФCJN:401
+  Gia:
+   - LBМЙ:110
+  Elizabeth:
+   - WNЛТ:564
+  Jacob:
+   - ЪЭQЧ:322
+Starfield:
+  Total errors: 9
+  Mila:
+   - MВКJ:537
+  Harper:
+   - БМЕФ:601
+  Jayden:
+   - ЧКНХ:417
+  Emma:
+   - ЖГЖС:816
+  William:
+   - GORZ:226
+  Charlie:
+   - ЧRQB:737
+  Noah:
+   - SЩVС:593
+   - JТMM:271
+  Sofia:
+   - QЦЫР:780
+Death Stranding:
+  Total errors: 8
+  Nora:
+   - KUCЖ:917
+  Sophie:
+   - EЦZТ:223
+  Riley:
+   - NVЯЖ:351
+  Jacob:
+   - CRPЙ:164
+  Lucas:
+   - BЩCО:328
+  Emily:
+   - БЯТА:964
+  Liam:
+   - LШGO:997
+  Lily:
+   - ЕRAE:957
+Street Fighter V:
+  Total errors: 8
+  Emma:
+   - NAQЫ:491
+  Mila:
+   - ЗZОJ:611
+  Mia:
+   - NЩЭP:36
+  Ruby:
+   - PАLS:903
+  Jacob:
+   - РЗUА:966
+  William:
+   - ЗЖПW:510
+  Elijah:
+   - LFВB:418
+  Evelyn:
+   - ЬОЖB:714
+Gears 5:
+  Total errors: 10
+  Lucas:
+   - ЧDGA:28
+  Lily:
+   - РRUМ:725
+  Hannah:
+   - HЧГЭ:925
+  Samantha:
+   - ИMУН:477
+  Amelia:
+   - ХXХИ:855
+  Sophia:
+   - AFЬL:372
+  Eva:
+   - RVМЖ:991
+   - LBИQ:593
+  Ellie:
+   - КKЯГ:376
+  Emily:
+   - ТNШЬ:81
+Stardew Valley:
+  Total errors: 7
+  Avery:
+   - DНMИ:267
+   - ЖКEQ:914
+   - ЗQCD:909
+  Sadie:
+   - ЮЖПЫ:932
+  Alexander:
+   - MСЮИ:298
+  Riley:
+   - PЯWV:775
+  Scarlett:
+   - UДШЛ:222
+Borderlands 3:
+  Total errors: 4
+  Adeline:
+   - ЖЗСЯ:13
+  Jayden:
+   - ТФPX:120
+  Scarlett:
+   - КЩNY:465
+  Sophia:
+   - ПMUE:644
+Red Dead Redemption 2:
+  Total errors: 6
+  Jackson:
+   - MЩЯM:14
+  Eleanor:
+   - ИНКN:430
+  Alexander:
+   - GЫQC:211
+  Evelyn:
+   - РРАЛ:328
+  Emily:
+   - DKРY:28
+  Mia:
+   - FЯШЗ:812
+Among Us:
+  Total errors: 7
+  Zoe:
+   - ADXY:948
+   - ГГFO:349
+  Victoria:
+   - ЕЭТS:855
+  Adeline:
+   - WMQЮ:197
+  Scarlett:
+   - QЬNТ:165
+  Ethan:
+   - KZTY:341
+  Sadie:
+   - НRЬX:314
+Doom Eternal:
+  Total errors: 9
+  John:
+   - IФAХ:657
+  Ava:
+   - БFOФ:525
+   - ЧЗAS:609
+  Aria:
+   - OШИС:801
+   - LJАК:155
+  Victoria:
+   - ЬXАН:588
+  Noah:
+   - ШЬYO:536
+  Daniel:
+   - LФAА:511
+  Sophia:
+   - ZFОЖ:189
+Devil May Cry 5:
+  Total errors: 7
+  Layla:
+   - BКЖР:831
+   - JHЮM:7
+  Evelyn:
+   - ВGХZ:673
+  Jack:
+   - ХJЬР:358
+  Emma:
+   - HМЪF:770
+  Amelia:
+   - РFШР:867
+  Olivia:
+   - ЮEАП:996
+NHL 21:
+  Total errors: 5
+  Mason:
+   - ЧБFЖ:807
+  Victoria:
+   - BСЩJ:180
+  Daniel:
+   - NEQД:62
+  William:
+   - ИУQW:410
+  Emily:
+   - MYHT:280
+Spider-Man:
+  Total errors: 5
+  Noah:
+   - XVXT:495
+  Natalie:
+   - OЖГC:399
+  Zoe:
+   - CВМG:891
+  Scarlett:
+   - SЬCЪ:750
+  Gabriel:
+   - VТЪД:264
+Wolfenstein II: The New Colossus:
+  Total errors: 8
+  Elizabeth:
+   - UJМИ:952
+  Mason:
+   - МCРT:323
+  Michael:
+   - ZЕOБ:287
+  Jackson:
+   - MLTX:341
+  Luna:
+   - PЭОО:755
+  Sophia:
+   - ДXJВ:880
+  Evelyn:
+   - ЩХQA:176
+  Emma:
+   - WЙKР:278
+Madden NFL 21:
+  Total errors: 5
+  Amelia:
+   - KЙIП:117
+  Adeline:
+   - УЧZZ:408
+  Lucas:
+   - UМКХ:788
+  Victoria:
+   - ЙLBЪ:5
+  Natalie:
+   - IАPM:891
+Uncharted 4: A Thief's End:
+  Total errors: 3
+  Mila:
+   - ОDBL:729
+  James:
+   - TДWM:237
+  Aaliyah:
+   - ЪЕРЛ:34
+Grand Theft Auto V:
+  Total errors: 4
+  Sophia:
+   - SWWM:126
+  Adeline:
+   - ЯТGШ:75
+  Avery:
+   - ГWWM:23
+  Lily:
+   - DJHT:681
+Titanfall 2:
+  Total errors: 7
+  David:
+   - ДVUШ:437
+  Aaliyah:
+   - JРLJ:18
+  Charlotte:
+   - ДKMГ:191
+  Penelope:
+   - OEXX:564
+  Elijah:
+   - ДCTF:860
+  Noah:
+   - JЮНJ:376
+  Olivia:
+   - ВAЩШ:501
+Need for Speed: Heat:
+  Total errors: 4
+  Avery:
+   - BКУP:398
+  Julian:
+   - RАЗУ:452
+  Leah:
+   - ЕЬГC:17
+  Grace:
+   - АECФ:975
+Luigi's Mansion 3:
+  Total errors: 5
+  Lucy:
+   - LFЩL:301
+  Julian:
+   - ЫВIЖ:12
+  Michael:
+   - ВOXЩ:729
+  Madison:
+   - ЭNAB:572
+  Noah:
+   - PXГЙ:110
+Outriders:
+  Total errors: 5
+  Julia:
+   - ХБEШ:322
+  Gia:
+   - ЦФЕЩ:353
+  Sophie:
+   - LНХF:757
+  Ella:
+   - ССЯR:694
+  Leo:
+   - RYKS:901
+Mafia: Definitive Edition:
+  Total errors: 7
+  Ava:
+   - УSJЬ:128
+  Charlotte:
+   - МEШУ:481
+  Elijah:
+   - НGLE:465
+  Olivia:
+   - ЪUKU:324
+  Benjamin:
+   - ШYЧП:656
+  Jayden:
+   - RVQР:992
+  Sadie:
+   - ШNUC:823
+Middle-earth: Shadow of War:
+  Total errors: 3
+  Ella:
+   - JЙBЭ:779
+  Eva:
+   - QRТР:525
+  Logan:
+   - ФФKL:35
+The Elder Scrolls V: Skyrim:
+  Total errors: 7
+  Emily:
+   - BЦJI:318
+  Lily:
+   - MNEК:19
+  Henry:
+   - ЙГТЗ:176
+  Aubrey:
+   - QЮAО:631
+  Abigail:
+   - OJNU:288
+  Daniel:
+   - КGZЭ:176
+  Benjamin:
+   - HIЕТ:13
+Kingdom Hearts III:
+  Total errors: 4
+  Hannah:
+   - TONГ:148
+  Charlotte:
+   - UХPИ:705
+  Benjamin:
+   - JEГЛ:727
+  Madelyn:
+   - GQFF:250
+Pokemon Sword and Shield:
+  Total errors: 3
+  David:
+   - ОSЯЫ:918
+  Scarlett:
+   - FDГА:721
+  Amelia:
+   - RLЩY:227
+Tom Clancy's The Division:
+  Total errors: 8
+  Emily:
+   - ЛЫDQ:626
+  Aiden:
+   - WЬIM:219
+  Sophia:
+   - BМED:890
+  Evelyn:
+   - ШШЭЗ:403
+  Scarlett:
+   - EЭЫN:455
+  Zoe:
+   - ЕGGW:163
+  Abigail:
+   - RЧЗE:636
+  Brooklyn:
+   - EЪPЮ:725
+FIFA 21:
+  Total errors: 8
+  Grace:
+   - PЪЖО:260
+   - XСЕC:929
+  Abigail:
+   - AЩЦM:859
+  Evelyn:
+   - QZTM:229
+  Aiden:
+   - ФБRО:756
+  James:
+   - ТYУL:843
+  Scarlett:
+   - ЩКHL:268
+  Mia:
+   - ЪОТО:343
+FIFA 20:
+  Total errors: 4
+  Grace:
+   - ЪЪОL:425
+  Liam:
+   - JQOW:462
+  Jacob:
+   - КNЪЬ:892
+  Elijah:
+   - AЗUP:376
+Ghost of Tsushima:
+  Total errors: 3
+  Charlotte:
+   - ЪBEM:389
+  Sophie:
+   - ОШRF:465
+  Hannah:
+   - QEЙА:359
+Bioshock Infinite:
+  Total errors: 7
+  Luna:
+   - ШUOY:111
+  Michael:
+   - ФУAС:185
+   - VЧМЪ:826
+  Olivia:
+   - БХЙB:992
+  Owen:
+   - WJДN:707
+  Abigail:
+   - ЦZЙЧ:636
+  Benjamin:
+   - ЕTСX:451
+Fallout 4:
+  Total errors: 4
+  Alexander:
+   - CАТШ:605
+  Daniel:
+   - RVЛД:123
+  Abigail:
+   - NFЛE:696
+  Riley:
+   - IРAM:853
+DOOM:
+  Total errors: 5
+  Chloe:
+   - ЫЧFП:297
+  Sophia:
+   - UХЛМ:89
+  Emily:
+   - ЮUЫF:57
+  Mia:
+   - ЬУЗЦ:58
+  Zoe:
+   - DЮЧФ:368
+Resident Evil 2:
+  Total errors: 7
+  Brooklyn:
+   - ЖBБТ:336
+  Aria:
+   - ЖИTШ:172
+  Nathan:
+   - ЖRIЖ:562
+  Madelyn:
+   - ЪCAB:514
+  Evelyn:
+   - ПAPШ:903
+  Victoria:
+   - EHKH:272
+  Avery:
+   - ЙVНС:402
+Halo 5: Guardians:
+  Total errors: 5
+  Olivia:
+   - ФXEЧ:135
+  James:
+   - DЬЗЛ:252
+  Sophia:
+   - LМШQ:392
+  Grace:
+   - КСЙГ:650
+  Victoria:
+   - FПBЦ:212
+Control:
+  Total errors: 5
+  Emma:
+   - VНЮG:400
+  Peyton:
+   - KUZП:713
+  Layla:
+   - НYЗX:246
+  Nora:
+   - НЗЩP:124
+  Sophia:
+   - WLГИ:127
+Far Cry 6:
+  Total errors: 4
+  Aria:
+   - LЫТЧ:158
+  Hannah:
+   - IЛCУ:561
+  Hazel:
+   - ЭLYT:627
+  Sadie:
+   - ЦMАQ:135
+Rainbow Six Siege:
+  Total errors: 8
+  Victoria:
+   - AXMK:73
+   - ГQIE:67
+  Julian:
+   - ДЦРШ:799
+  Jack:
+   - ЙГГV:968
+  Riley:
+   - VВVЬ:480
+  James:
+   - ЦDQI:564
+  Zoe:
+   - CТUU:750
+  Peyton:
+   - FЭЗO:36
+Elden Ring:
+  Total errors: 7
+  Liam:
+   - WЯZC:270
+  Emily:
+   - ЙTЖМ:758
+  Lily:
+   - НGЬЬ:442
+  Eva:
+   - УБYL:461
+  Camila:
+   - ЛЛМD:924
+  Jackson:
+   - LОZО:129
+  Riley:
+   - IYЯP:915
+Overwatch:
+  Total errors: 11
+  Mason:
+   - КФTБ:463
+  Zoey:
+   - ЦЕVD:45
+  Jacob:
+   - FBПЗ:110
+  Evelyn:
+   - XЪZT:384
+  William:
+   - JОКO:783
+  Emily:
+   - ЗUTJ:331
+  Charlie:
+   - ULЖЖ:874
+  Liam:
+   - RHRH:902
+  Emma:
+   - YЯЕL:815
+  Chloe:
+   - ZURP:71
+  Mila:
+   - WЬЛХ:251
+No Man's Sky:
+  Total errors: 3
+  Charlie:
+   - ЕFНK:621
+  Elijah:
+   - ХUТP:740
+  Charlotte:
+   - BHЭH:345
+Hogwarts Legacy:
+  Total errors: 3
+  Brooklyn:
+   - WDYZ:520
+  Luna:
+   - ЯLXI:258
+  Stella:
+   - EЫКЗ:163
+Metro Exodus:
+  Total errors: 7
+  Olivia:
+   - FXQW:289
+  Jackson:
+   - МЮТЪ:368
+  Logan:
+   - XРЦШ:18
+  Emma:
+   - QVOЛ:960
+  Riley:
+   - WЬIZ:516
+  Victoria:
+   - ЯЩYС:764
+  Levi:
+   - МRTG:743
+Diablo III:
+  Total errors: 7
+  Aria:
+   - ЖХBГ:514
+  Matthew:
+   - ZIWP:546
+  Michael:
+   - ЩОDБ:268
+  Gia:
+   - LЙПU:836
+  Aaliyah:
+   - FLДЭ:903
+  Natalie:
+   - ЯQСС:451
+  Stella:
+   - ATРЗ:720
+The Outer Worlds:
+  Total errors: 10
+  Ava:
+   - SSLW:956
+  Olivia:
+   - MОQD:540
+  Jack:
+   - ЛТОЮ:986
+  Aaliyah:
+   - ХLNЬ:936
+  Lucas:
+   - ЯГПE:716
+  Mila:
+   - GРГМ:154
+  Scarlett:
+   - ГВТQ:622
+  Aria:
+   - ОЗЖЯ:58
+  Mason:
+   - XTXТ:956
+  Stella:
+   - ШЯБV:359
+Battlefield V:
+  Total errors: 9
+  Adeline:
+   - АФОЗ:312
+  Victoria:
+   - JЦPI:182
+  Jayden:
+   - XNЯН:422
+  Joseph:
+   - PРЫЬ:990
+  Jackson:
+   - ЕAXV:138
+  Natalie:
+   - СZCС:694
+  Sophia:
+   - ШЬЮО:879
+  Harper:
+   - NFГV:571
+  Madison:
+   - KLIГ:484
+Resident Evil Village:
+  Total errors: 10
+  Jack:
+   - AXJВ:981
+  Avery:
+   - ГXQЮ:265
+  James:
+   - VДTЗ:146
+  Jackson:
+   - ЕХZT:786
+  Victoria:
+   - ЧРЪP:746
+   - IMNУ:822
+  Noah:
+   - RSTЭ:392
+  Samuel:
+   - KABT:460
+  Harper:
+   - ВKMЩ:39
+  Ruby:
+   - EИУG:517
+Watch Dogs: Legion:
+  Total errors: 7
+  Benjamin:
+   - ZЖШB:399
+  Ellie:
+   - ЕLЖД:675
+  Evelyn:
+   - HZАF:661
+  Ella:
+   - КЫQH:428
+  Hazel:
+   - ЛФXУ:73
+  Andrew:
+   - JRWE:182
+  Gabriel:
+   - КIST:88
+Fortnite:
+  Total errors: 5
+  Jackson:
+   - UMЕB:411
+  Leah:
+   - ПСYU:137
+  Jacob:
+   - МCRУ:167
+  Alex:
+   - FГNЭ:469
+  Ava:
+   - DФAA:177
+Final Fantasy VII Remake:
+  Total errors: 6
+  Abigail:
+   - IЕАЩ:657
+  Sophie:
+   - ЛMГP:257
+  Scarlett:
+   - ИРIЫ:789
+  Charlie:
+   - ITЩO:941
+  Nathan:
+   - HЦКW:635
+  Daniel:
+   - WФСИ:291
+Assassin's Creed Odyssey:
+  Total errors: 6
+  Mason:
+   - AFЮЭ:710
+  Lucas:
+   - АЬMШ:642
+  Gabriel:
+   - SЪZW:470
+  Amelia:
+   - NНFC:646
+  Emily:
+   - NTШQ:952
+  Ella:
+   - ФГМV:611
+StarCraft II:
+  Total errors: 3
+  Emily:
+   - MTХM:786
+  Alex:
+   - ЧTЪD:303
+  Abigail:
+   - AFVJ:795
+Dark Souls III:
+  Total errors: 7
+  Olivia:
+   - VNРV:939
+  Grace:
+   - ОЛПЩ:725
+   - СЖБO:695
+  Charlotte:
+   - ДЭXG:540
+  William:
+   - ЬJOЩ:216
+  Julian:
+   - ЕARВ:525
+  James:
+   - ЩQOЙ:810
+Final Fantasy XV:
+  Total errors: 12
+  Benjamin:
+   - QАLЧ:763
+  Charlotte:
+   - PВЩВ:968
+  Sadie:
+   - KВXI:416
+  Natalie:
+   - NЬЦT:94
+  Scarlett:
+   - TCРK:201
+  Riley:
+   - ЮШCЪ:168
+  William:
+   - ZЮЫH:259
+  Ava:
+   - ЙPЮК:768
+  Leah:
+   - ПЛНХ:230
+  Jacob:
+   - АШQR:722
+  Sophia:
+   - CЦТС:326
+  Mason:
+   - ММTD:78
+Sekiro: Shadows Die Twice:
+  Total errors: 2
+  Julia:
+   - CШAИ:230
+  Ethan:
+   - CJЧЩ:520
+Mass Effect 3:
+  Total errors: 7
+  Gabriel:
+   - PЧКI:761
+  Avery:
+   - IKОX:394
+  Samuel:
+   - XГHS:188
+  Aiden:
+   - РLУX:479
+  James:
+   - ГОPI:557
+  Sophia:
+   - ВRRI:674
+  Aria:
+   - BХOU:908
+Crash Bandicoot 4: It's About Time:
+  Total errors: 5
+  Grace:
+   - УQOЛ:348
+  Olivia:
+   - HTIШ:657
+  Harper:
+   - СНКK:376
+  Alexander:
+   - ЦРЮЦ:982
+  Emma:
+   - АКЭG:578
+Hitman 3:
+  Total errors: 6
+  Daniel:
+   - ЪДТN:966
+  Logan:
+   - MЬВГ:397
+  Leo:
+   - SЩДB:382
+  Camila:
+   - IPЭЮ:131
+  Ava:
+   - BWБA:165
+  Madison:
+   - НKМЕ:474
+The Witcher 3: Wild Hunt:
+  Total errors: 4
+  Jack:
+   - ИЕUЙ:223
+  Layla:
+   - PGУЮ:768
+  Ava:
+   - ЖBЙG:50
+  Sophie:
+   - ЯRHT:953
+Far Cry 5:
+  Total errors: 4
+  Mila:
+   - ЬЯШН:993
+  Benjamin:
+   - ЖОYH:316
+  Gia:
+   - ЪЛВЧ:654
+  Ava:
+   - NLTD:566
+NBA 2K21:
+  Total errors: 5
+  Amelia:
+   - RФЬA:257
+  Jackson:
+   - IУHИ:134
+  Isabella:
+   - MSШO:601
+  Scarlett:
+   - ЙИДЯ:510
+  Abigail:
+   - LЙHЛ:825
+The Legend of Zelda: Breath of the Wild:
+  Total errors: 2
+  Elijah:
+   - ZОРG:281
+  James:
+   - КMPW:848
+Horizon Zero Dawn:
+  Total errors: 6
+  Eleanor:
+   - MСЙГ:35
+  Samuel:
+   - PЗHЖ:739
+  Alexander:
+   - ЛDZУ:302
+  Amelia:
+   - SКDY:230
+   - VWPТ:837
+  Scarlett:
+   - ЪХYФ:348
+Minecraft:
+  Total errors: 6
+  Evelyn:
+   - IQЗЖ:49
+  Zoe:
+   - XCYШ:118
+  Sophia:
+   - ЫОGI:65
+  Gabriel:
+   - ГЙВЕ:104
+  David:
+   - WOЗH:502
+  Lily:
+   - HFDБ:535
+Dying Light:
+  Total errors: 7
+  Ellie:
+   - АЩPЕ:444
+  Lily:
+   - ЛБИТ:481
+  Elijah:
+   - ЦФBF:940
+  Grace:
+   - TТIК:809
+  Mila:
+   - ЫSСM:545
+  Lucy:
+   - ЕVYN:969
+  Owen:
+   - ЭKBI:95
+The Division 2:
+  Total errors: 7
+  Natalie:
+   - ЫЦЪЫ:86
+  Sophie:
+   - LEOМ:844
+  Charles:
+   - IDCЬ:811
+  Scarlett:
+   - OЖГA:40
+  Evelyn:
+   - KЧSG:878
+  Eva:
+   - ЫОЩЪ:815
+  Aaliyah:
+   - GУJЦ:151
+Far Cry 4:
+  Total errors: 5
+  Madison:
+   - BЧУЙ:129
+  Hannah:
+   - ЫЧFN:26
+  Avery:
+   - GЫНN:690
+  Ella:
+   - ОИСЭ:376
+  Camila:
+   - WQГP:839
+The Last of Us:
+  Total errors: 2
+  Brooklyn:
+   - ЧFСВ:167
+  John:
+   - ЮЧЪЕ:246
+Monster Hunter: World:
+  Total errors: 4
+  Gabriel:
+   - УЦБW:97
+  Mila:
+   - QБОT:997
+  Sofia:
+   - ЪKMS:961
+  Emily:
+   - ЭUKJ:173
+God of War:
+  Total errors: 6
+  Lily:
+   - ATУВ:109
+  Leo:
+   - МЯZE:684
+  Grace:
+   - ШHЪВ:500
+  Aria:
+   - ЕЭЕХ:764
+  Adeline:
+   - ШПZE:290
+  Alex:
+   - PЛJЛ:766
+F1 2020:
+  Total errors: 4
+  Nathan:
+   - ЭЖMМ:479
+  Isaac:
+   - ЖTЖI:649
+  Michael:
+   - VFUY:399
+  Benjamin:
+   - GБУU:250
+Elder Scrolls Online:
+  Total errors: 3
+  Samantha:
+   - DYPG:932
+  Elijah:
+   - ТVДD:393
+  Grace:
+   - ЬUBG:101
+Forza Horizon 4:
+  Total errors: 4
+  Emma:
+   - УLУГ:813
+  Abigail:
+   - НОЛC:780
+  Jacob:
+   - FOEЯ:888
+  Olivia:
+   - ЩББB:922
+Metal Gear Solid V: The Phantom Pain:
+  Total errors: 3
+  Charlie:
+   - ТTЧК:646
+  Emily:
+   - СQKЕ:533
+  Sadie:
+   - EKFД:728
+Rocket League:
+  Total errors: 2
+  Penelope:
+   - БВЦЩ:435
+  Aaron:
+   - MHYЧ:340
+Star Wars Jedi: Fallen Order:
+  Total errors: 2
+  Sofia:
+   - ЪVНL:416
+  Madelyn:
+   - ОХЖI:176
+Civilization VI:
+  Total errors: 7
+  Logan:
+   - DOWL:682
+  Lucas:
+   - ТWЪЮ:352
+  Eleanor:
+   - АLWO:661
+  Hannah:
+   - GOXН:807
+  Elijah:
+   - ЧЪCЦ:330
+  Natalie:
+   - GКWR:586
+  Ava:
+   - KПJZ:378
+Call of Duty: Modern Warfare:
+  Total errors: 6
+  Caleb:
+   - ГБЭЕ:713
+  Elijah:
+   - ЮIDУ:715
+  Hazel:
+   - МZЦY:773
+  Liam:
+   - INТD:148
+  James:
+   - WЗОЧ:344
+  Mila:
+   - KPOC:228
+Resident Evil 3:
+  Total errors: 6
+  Emily:
+   - ЯШЬР:77
+  Alexander:
+   - IРУS:217
+  Amelia:
+   - PUРV:679
+  Benjamin:
+   - ЖЙTК:591
+  Evelyn:
+   - ГАТО:77
+  Sophia:
+   - ЯJXK:213
+Terraria:
+  Total errors: 4
+  Eva:
+   - ПVDI:998
+  Jackson:
+   - КVGЮ:310
+  Amelia:
+   - OЫFЖ:836
+  Scarlett:
+   - ЫCЗU:760
+The Medium:
+  Total errors: 3
+  Chloe:
+   - ZЬLБ:351
+  Daniel:
+   - ZJХФ:559
+  Grace:
+   - FТGЧ:433
+Hellblade: Senua's Sacrifice:
+  Total errors: 4
+  Madelyn:
+   - VUХL:782
+  Aria:
+   - BААS:119
+  Emma:
+   - ОVНD:169
+  Gabriel:
+   - PMUВ:989
+Animal Crossing: New Horizons:
+  Total errors: 4
+  Aaliyah:
+   - ДГYМ:645
+  Sophia:
+   - ZUПЮ:801
+  Elijah:
+   - ЙЦBС:918
+  Leah:
+   - ЙЯОЕ:77
+Destiny 2:
+  Total errors: 4
+  Daniel:
+   - CЯRР:437
+  Zoey:
+   - ДEТЙ:653
+  Madison:
+   - FЪJG:658
+  Gabriel:
+   - АЕШК:565
+Assassin's Creed Valhalla:
+  Total errors: 4
+  Mia:
+   - JJUK:866
+  Brooklyn:
+   - ЯLФП:277
+  Sophie:
+   - JЯЛУ:942
+  Hannah:
+   - PЧЧL:273
+Resident Evil 7: Biohazard:
+  Total errors: 3
+  Liam:
+   - PВАК:35
+  Sophie:
+   - TJЧT:578
+  Hannah:
+   - ЯДФG:893
+Ghostrunner:
+  Total errors: 4
+  Matthew:
+   - ХXИX:562
+  Gabriel:
+   - ЪMBE:638
+  Avery:
+   - КUДQ:49
+  Grace:
+   - ЙGЕЭ:918
+Mortal Kombat 11:
+  Total errors: 2
+  Michael:
+   - JDЮA:494
+  Grace:
+   - ФЪHК:960
+Outer Wilds:
+  Total errors: 2
+  Riley:
+   - ЛLСД:749
+  Oliver:
+   - ФЯХК:36
+Cyberpunk 2077:
+  Total errors: 2
+  Aria:
+   - IOФB:80
+  Joseph:
+   - ЧFДГ:823
